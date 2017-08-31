@@ -1,3 +1,9 @@
-// Your recommended changes go here
+I was engaged as a lead UX/UI Designer in redesigning the Department of State’s Students Abroad website. Students who participate in Study Abroad programs (the main target audience for the site) experienced problems navigating the site and accessing information on their mobile devices. Redesigning the Students Abroad website to make it responsive and mobile-friendly became a pilot project for the Department, which supports several sites for a variety of user groups under the travel.state.gov umbrella.
 
-## Content (1-2 paragraphs)
+The redesign of the website was a very challenging project, since every aspect of the existing website had to be reassessed and modified to make the site usable on mobile devices. One major issue of the redesign involved reworking the information architecture. A thorough page-by-page review of the existing site uncovered a number of outdated pages accumulated over the years that needed to be removed. Additionally, several rounds of card sorting exercises revealed that prospective site users had great difficulty categorizing pages. However, site owners remained resistant to changing the architecture.
+
+My solution to this problem was to get the content owners involved in the design process by inviting them to be note takers during three focus group sessions we conducted with former participants of the program. After observing how confused the students were and recording their feedback, stakeholders were convinced to take a second look at the inventory. The content owners cut a number of pages, and gave a green light to our new information architecture.
+
+After the redesigned website was launched a number of page views increased dramatically, and student travel organizations welcomed a new site.
+
+I am attaching some of the UX design process' deliverables and user interface mockups for desktop and mobile screens.
